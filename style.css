@@ -1,0 +1,43 @@
+#top-image{
+    height: 150px;
+    width:285px;
+}
+
+#corsel{
+    height: 250px;
+    width:300px;
+}
+
+.images{
+    width: 100%;
+    height:100%;
+}
+
+.btn{
+    height:50px;
+    width: 50px;
+    border-radius: 25px;
+    background-color: black;
+    color:white;
+    font-size: 40px;
+}
+
+#prev-btn{
+    position: absolute;
+    margin-top: 49px;
+    margin-left: 10px;
+}
+
+#next-btn{
+    position: absolute;
+    margin-top: 49px;
+    margin-left: 230px;
+}
+
+#main-container{
+    border-color:black;
+    border-style: solid;
+    border-width: 3px;
+    height: 150px;
+    width:295px;
+}

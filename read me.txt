@@ -1,0 +1,9 @@
+Hi this is Siddhant Solanki
+
+I have created the image carousel as given in the assingment.
+
+I have tried to replicate the design provided in the assignment.
+
+Steps:
+1.Please click on the index.html file to open the html file in any browser.(chrome preffered)
+2. Click on then buttons to change the images in forward or reverse directions.
